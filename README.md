@@ -1,8 +1,8 @@
-🧠 Modelo Unificado de Riesgo Cibernético (MURC)
+#🧠 Modelo Unificado de Riesgo Cibernético (MURC)
 
 Prototipo académico — Trabajo de grado
 
-📌 1. Descripción general
+#📌 1. Descripción general
 El Modelo Unificado de Riesgo Cibernético (MURC) es una metodología y herramienta tecnológica diseñada para optimizar la priorización de vulnerabilidades en entidades financieras.
 
 El modelo integra tres dimensiones clave:
@@ -17,7 +17,7 @@ Este repositorio contiene el prototipo funcional implementado en Python + Stream
 
 “Desarrollo de una metodología y herramienta para optimizar la gestión de vulnerabilidades y mitigar el riesgo de ciberseguridad en entidades financieras”.
 
-🏛️ 2. Contexto académico e institucional
+#🏛️ 2. Contexto académico e institucional
 
 El modelo y la herramienta se alinean con:
 
@@ -27,7 +27,7 @@ ISO/IEC 27005:2018
 
 NIST SP 800-30:2022
 
-⚙️ 3. Arquitectura del prototipo
+#⚙️ 3. Arquitectura del prototipo
 
 El prototipo MURC opera mediante los siguientes módulos principales:
 
@@ -48,7 +48,7 @@ Exportación a Excel y CSV
 
 Autenticación mediante variables de entorno (MURC_USER, MURC_PASS)
 
-📁 4. Estructura del repositorio
+#📁 4. Estructura del repositorio
 
 prototipo-murc/
 │
@@ -60,29 +60,29 @@ prototipo-murc/
 └── README.md            # Este archivo
 
 
-🚀 5. Instalación y ejecución
+#🚀 5. Instalación y ejecución
 
 git clone https://github.com/wilsonmoralesrada/prototipo-murc.git
 cd prototipo-murc
 
-2. Crear entorno virtual
+#2. Crear entorno virtual
 
    python -m venv venv
 source venv/Scripts/activate   # Windows
 
-3. Instalar dependencias
+#3. Instalar dependencias
 pip install -r requisitos.txt
 
-4. (Opcional) Definir credenciales mediante .env
+#4. (Opcional) Definir credenciales mediante .env
 Crear archivo .env:
 MURC_USER=admin
 MURC_PASS=admin123
 
-5. Ejecutar la aplicación
+#5. Ejecutar la aplicación
 
    streamlit run aplicación.py
 
-📥 6. Formato del archivo de entrada
+#📥 6. Formato del archivo de entrada
 
 | Hoja                   | Campos obligatorios        | Descripción                        |
 | ---------------------- | -------------------------- | ---------------------------------- |
@@ -92,7 +92,7 @@ MURC_PASS=admin123
 
 
    
-📊 7. Funcionalidades del prototipo
+#📊 7. Funcionalidades del prototipo
 
 Clasificación y priorización unificada de vulnerabilidades
 
@@ -112,7 +112,7 @@ Descarga de resultados
 
 Justificación automática del nivel de exposición
 
-📚 8. Documentación y anexos
+#📚 8. Documentación y anexos
 
 Este repositorio corresponde al literal B — Código fuente del trabajo de grado.
 
@@ -126,14 +126,14 @@ Este repositorio.
 C. Concepto de validación técnica
 Documento disponible en el repositorio de la entidad financiera (uso institucional).
 
-👤 9. Autoría
+#👤 9. Autoría
 
 Wilson Rafael Morales Rada
 Trabajo de grado — Maestría en Informática
 Escuela Colombiana de Ingeniería Julio Garavito
 2025
 
-📄 10. Licencia y uso
+#📄 10. Licencia y uso
 
 Este prototipo se publica únicamente con fines académicos y de investigación.
 Su uso en entornos productivos está sujeto a las políticas internas de la entidad financiera correspondiente.
