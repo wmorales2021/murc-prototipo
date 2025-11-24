@@ -154,7 +154,7 @@ Escuela Colombiana de Ingeniería Julio Garavito
 
 ## 📝 Licencia y uso  
 Este prototipo se publica únicamente para fines **académicos y de investigación**.  
-Su uso en producción debe ajustarse a las políticas del FNA y normativas aplicables.
+Su uso en producción debe ajustarse a las políticas de cada entidad  y normativas aplicables.
 
 ---
 
