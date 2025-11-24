@@ -12,10 +12,10 @@ El **Modelo Unificado de Riesgo Cibernético (MURC)** es una metodología y herr
 El modelo integra de forma ponderada tres dimensiones fundamentales:
 
 - **CVSS** — Severidad técnica  
-- **CVSSF** — Exposición y probabilidad  
+- **CVSSF** — Exposición al riesgo
 - **Criticidad del activo (BIA)**  
 
-MURC ofrece un índice unificado con valores entre **0 y 1**, permitiendo clasificar las vulnerabilidades en:
+MURC ofrece un índice unificado con valores entre **0 y 1**, permitiendo clasificar  la exposicion al riesgo en :
 
 🔹 **BAJO**  
 🔸 **MEDIO**  
