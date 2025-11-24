@@ -53,15 +53,11 @@ Requiere un archivo Excel con tres hojas:
 
 ### 3️⃣ Cálculo del índice MURC
 
-<div align="center">
+<p align="center">
+  <img src="https://latex.codecogs.com/png.image?\dpi{140}\large
+  MURC=0.5\cdot CVSS_{norm}+0.3\cdot CVSSF_{norm}+0.2\cdot Criticidad_{norm}" />
+</p>
 
-\[
-\text{MURC} = 0.5 \cdot \text{CVSS}_{\text{norm}} \;+\; 
-0.3 \cdot \text{CVSSF}_{\text{norm}} \;+\; 
-0.2 \cdot \text{Criticidad}_{\text{norm}}
-\]
-
-</div>
 
 
 
