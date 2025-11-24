@@ -53,11 +53,16 @@ Requiere un archivo Excel con tres hojas:
 
 ### 3️⃣ Cálculo del índice MURC
 
+<div align="center">
+
 \[
-MURC = 0.5 \cdot CVSS_{norm} + 0.3 \cdot CVSSF_{norm} + 0.2 \cdot Criticidad_{norm}
+\text{MURC} = 0.5 \cdot \text{CVSS}_{\text{norm}} \;+\; 
+0.3 \cdot \text{CVSSF}_{\text{norm}} \;+\; 
+0.2 \cdot \text{Criticidad}_{\text{norm}}
 \]
 
----
+</div>
+
 
 ### 4️⃣ Clasificación del nivel de exposición
 
