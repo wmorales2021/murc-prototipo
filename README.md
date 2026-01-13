@@ -3,7 +3,7 @@
 Prototipo académico — Trabajo de grado
 
 # 📌 1. Descripción general
-El Modelo Unificado de Riesgo Cibernético (MURC) es una metodología y herramienta tecnológica diseñada para optimizar la priorización de vulnerabilidades en entidades financieras.
+El Modelo Unificado de Riesgo Cibernético (MURC) es una metodología y herramienta tecnológica diseñada para optimizar la priorización de vulnerabilidades en entidades financieras colombianas de nivel Tier 3.
 
 El modelo integra tres dimensiones clave:
 
