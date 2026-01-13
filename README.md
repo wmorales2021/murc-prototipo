@@ -117,8 +117,10 @@ Justificación automática del nivel de exposición
 Este repositorio corresponde al literal B — Código fuente del trabajo de grado.
 
 A. Evidencias del modelo y herramienta tecnológica
-(Pendiente enlace a GitHub Pages o PDF)
-👉 https://wilsonmoralesrada.github.io/MURC/
+
+Las evidencias del Modelo Unificado de Riesgo Cibernético (MURC), incluyendo el flujo de funcionamiento, visualización de resultados y ejemplos de ejecución, se encuentran documentadas en el **Manual académico del prototipo MURC**, disponible en formato PDF dentro de este repositorio:
+
+📄 `docs/Manual_MURC_v1.0.pdf`
 
 B. Código fuente
 Este repositorio.
