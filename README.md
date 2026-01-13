@@ -74,9 +74,7 @@ source venv/Scripts/activate   # Windows
 pip install -r requisitos.txt
 
 # 4. (Opcional) Definir credenciales mediante .env
-Crear archivo .env:
-MURC_USER=admin
-MURC_PASS=admin123
+Sujeto a politicas de seguridad de la información de cada organización 
 
 # 5. Ejecutar la aplicación
 
